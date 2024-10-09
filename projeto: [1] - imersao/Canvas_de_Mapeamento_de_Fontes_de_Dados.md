@@ -3,39 +3,42 @@
 
 
 ## 1. Nome da Fonte de Dados
-**Planilha**: dataset-privacy-terms. A planilha corresponde a links para sites com termos de Política de Privacidade e Termos de Uso.
+**Banco de Redações:** dataset-redacoes-ENEM. Este banco de dados contém redações anteriores e exemplos de correção.
 
 ## 2. Descrição da Fonte de Dados
-Uma planilha contendo 30 links para sites de várias organizações que publicam seus termos de política de privacidade e termos de uso. Esses links servem como fontes primárias para coletar e analisar os documentos legais relevantes.
+Um conjunto de dados contendo redações submetidas por usuários, além de redações anteriores de provas do ENEM, acompanhadas das notas e correções realizadas por corretores especializados. Também inclui redações-modelo de diferentes temas que exemplificam boas práticas.
 
 ## 3. Origem dos Dados
-Sites oficiais das organizações que publicam seus termos de política de privacidade e termos de uso.
+Redações submetidas pelos usuários da plataforma, redações do ENEM disponíveis publicamente, além de exemplos fornecidos por especialistas em correção de redações.
 
 ## 4. Tipo de Dados
-- Dados textuais (documentos de política de privacidade e termos de uso disponíveis nos sites)
-- Dados categóricos (categorias de sites e tipos de documentos)
+- Dados textuais (redações e suas correções)
+- Dados numéricos (notas atribuídas em diferentes competências do ENEM)
+- Dados categóricos (tipos de erros, temas das redações)
 
 ## 5. Formato dos Dados
-- Planilha em formato CSV ou Excel com links para os sites
-- Documentos disponíveis nos sites podem estar em formato PDF, HTML, ou texto simples
+- Arquivos de texto ou documentos transcritos em formato digital (TXT, DOCX)
+- Dados de correção em formato CSV ou JSON, que categorizam o desempenho em cada critério da redação (competências do ENEM)
 
 ## 6. Frequência de Atualização
-Atualizações conforme mudanças nos sites ou adição de novos links. A planilha deve ser revisada e atualizada trimestralmente ou conforme necessário.
+Atualizações contínuas à medida que os usuários submetem novas redações para correção. O banco de dados é incrementado em tempo real.
 
 ## 7. Qualidade dos Dados
-Os dados são geralmente completos na medida em que os links funcionam e os documentos estão acessíveis. Pode haver links quebrados ou documentos desatualizados que necessitam de verificação e correção.
+Os dados são constantemente monitorados para garantir a precisão das correções e a relevância dos exemplos de redações. Verificação contínua para garantir que as correções estejam em conformidade com os critérios do ENEM.
 
 ## 8. Métodos de Coleta
-Coleta manual dos links e verificação periódica para garantir que os links estão funcionando e direcionam para os documentos corretos. Atualização da planilha com novos links conforme necessário.
+Coleta automática das redações enviadas pelos usuários e integração das correções geradas pelos corretores virtuais com base em IA. Adição manual de exemplos de redações de qualidade.
 
 ## 9. Acesso aos Dados
-Acesso via links na planilha.
+Acesso controlado pelo sistema interno da plataforma Redduo.ai, com permissões específicas para os desenvolvedores que gerenciam o modelo de IA.
 
 ## 10. Proprietário dos Dados
-Responsável pela manutenção da planilha e verificação dos links.
+Responsável pelo gerenciamento dos dados é a equipe de desenvolvimento e manutenção do Redduo.ai.
+
 
 ## 11. Restrições de Privacidade e Segurança
-Garantir que o acesso aos links e documentos respeite as políticas de privacidade e segurança das organizações cujos sites estão listados. Proteção da planilha com informações sensíveis.
+As redações dos usuários são anonimizadas para preservar a privacidade. Garantias de que os dados estão protegidos conforme as legislações de privacidade, como a LGPD (Lei Geral de Proteção de Dados).
 
 ## 12. Requisitos de Integração
-Integração dos links com o sistema de coleta de dados da IA. Necessidade de automação para extrair e processar informações dos documentos nos sites. A sincronização deve ocorrer conforme a atualização dos links e documentos na planilha.
+Integração dos dados com o motor de IA da plataforma para garantir a correção automática e precisa das redações, além de permitir o aprendizado contínuo do modelo. É necessária a sincronização em tempo real entre os dados de redação e as correções fornecidas.
+
