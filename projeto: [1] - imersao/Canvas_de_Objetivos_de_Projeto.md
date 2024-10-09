@@ -1,35 +1,37 @@
 # Canvas de Objetivos de Projeto
 
 ## 1. Objetivo Geral
-Facilitar o acesso e a interpretação de informações contidas em políticas de privacidade e termos de uso, melhorando a conformidade e a eficiência dos funcionários nas organizações.
+Facilitar e democratizar o acesso a correções especializadas e detalhadas de redações do ENEM, promovendo melhorias contínuas nas habilidades de escrita dos estudantes e potencializando suas chances de sucesso no exame.
 
 ## 2. Objetivos Específicos
-- Reduzir o tempo necessário para encontrar e interpretar informações específicas em documentos de políticas de privacidade e termos de uso em 30%.
-- Melhorar a precisão das respostas fornecidas pela assistente de IA em consultas sobre conformidade em 50%.
-- Aumentar a frequência das atualizações sobre mudanças regulatórias fornecidas aos funcionários em 30%.
-- Diminuir o risco de não conformidade devido à má interpretação dos documentos em 20%.
+- Aumentar a acessibilidade ao serviço de correção de redações, oferecendo correções por menos de R$ 1 por redação.
+- Proporcionar feedback detalhado que ajude os alunos a melhorar a estrutura, coesão, argumentação e outros critérios exigidos pelo ENEM.
+- Reduzir o tempo de correção, garantindo que os usuários recebam análises em poucos minutos após o envio da redação.
+- Incentivar o uso recorrente da plataforma como ferramenta de prática regular para aprimorar habilidades de escrita ao longo do tempo.
+- Melhorar a experiência do usuário, permitindo o envio de redações de forma prática e ágil através de qualquer dispositivo.
 
 ## 3. Indicadores de Sucesso
-- Tempo médio gasto pelos funcionários na busca de informações sobre políticas de privacidade e termos de uso.
-- Percentual de precisão nas respostas fornecidas pela assistente de IA.
-- Frequência das atualizações e alertas sobre mudanças regulatórias enviadas pela assistente de IA.
-- Taxa de conformidade com regulamentos de privacidade e termos de uso.
+- Número médio de redações corrigidas por aluno dentro de um mês.
+- Nível de satisfação dos usuários com a precisão e detalhamento das correções fornecidas.
+- Tempo médio entre o envio da redação e o recebimento do feedback.
+- Percentual de melhoria nas notas das redações após uso contínuo da plataforma.
 
 ## 4. Metas Quantitativas
-- Reduzir o tempo médio gasto na busca de informações de 30 minutos para 21 minutos em 4 meses.
-  - O prazo de 4 meses permite tempo suficiente para desenvolvimento, ajustes e testes, ajustando a assistente para fornecer respostas rápidas e precisas.
+- Atingir uma taxa de retorno de pelo menos 70% dos usuários que utilizam a plataforma mais de uma vez no período de 6 meses.
+  - Isso demonstraria o valor percebido pelos usuários e a eficácia do feedback fornecido.
 
-- Atingir uma precisão de 75% nas respostas fornecidas pela assistente de IA em 4 meses.
-  - Embora uma precisão de 100% seja ideal, 75% é um marco significativo e viável dentro de um prazo da disciplina.
+- Reduzir o tempo de entrega de correção para menos de 10 minutos por redação no prazo de 3 meses.
+  - feedback rápido é essencial para garantir que os estudantes possam corrigir suas redações e continuar a praticar.
 
-- Enviar atualizações sobre mudanças regulatórias trimestralmente, aumentando a frequência de atualização dos funcionários em 30% em 3 meses.
-  - A meta de aumentar a frequência de atualização em 30% é realista, dado que a assistente IA pode ser programada para monitorar e alertar sobre mudanças regulatórias periodicamente.
+- Aumentar em 50% a quantidade de redações corrigidas por usuário em 4 meses.
+  - Incentivar o uso contínuo da plataforma como prática regular é crucial para o desenvolvimento das habilidades de escrita.
 
-- Diminuir o risco de não conformidade devido à má interpretação dos documentos de 20% para 16% em 4 meses.
-  - Considerando que o projeto pode não ter dados históricos extensivos para uma análise mais precisa, essa meta representa uma melhoria tangível e factível dentro de um prazo de 4 meses, permitindo tempo para ajustes baseados em testes e feedback.
+- Elevar a nota média dos usuários no critério de coesão textual em 20% após 4 meses de uso da plataforma.
+  - O impacto direto na nota do ENEM é um indicador importante da eficácia do serviço.
 
 ## 5. Prazo para Alcance
-- 4 meses para reduzir o tempo médio gasto na busca de informações.
-- 4 meses para atingir a precisão de 75% nas respostas fornecidas pela assistente de IA.
-- 3 meses para aumentar a frequência de atualizações sobre mudanças regulatórias em 30%.
-- 4 meses para reduzir o risco de não conformidade devido à má interpretação dos documentos para 16%.
+- 6 meses para atingir a taxa de retorno de 70% dos usuários.
+- 3 meses para reduzir o tempo de correção para menos de 10 minutos por redação.
+- 4 meses para aumentar em 50% o número de redações corrigidas por usuário.
+- 4 meses para melhorar a nota média dos usuários no critério de coesão textual em 20%.
+
