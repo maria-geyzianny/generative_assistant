@@ -1,1 +1,1 @@
-# generative_assistant
+# Redduo.ai
